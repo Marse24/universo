@@ -1,0 +1,17 @@
+body
+{
+    padding:10px;
+    margin:40px;
+    font-size: 24px;
+    font-family: 'Grenze Gotisch', cursive;
+    background-image:url(http://24.media.tumblr.com/31cd7c64d1ac871bd17ddfce85cfa2f4/tumblr_mx8jtzQMFy1r6hn6xo1_500.gif);
+    background-repeat:repeat;
+    color: (white);
+}
+
+nav
+{
+    background-color: (whitesmoke);
+    padding: 0px;
+    color: (wheat);
+}
